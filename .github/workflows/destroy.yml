@@ -3,7 +3,7 @@ name: d-destroy
 on:
   workflow_dispatch:
 env:
-  BUCKET: teststorage1983
+  BUCKET: dhritibuck
   TFSTATE_FILE: S3.tfstate
   aws_region: ap-south-1
 
