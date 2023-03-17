@@ -14,7 +14,7 @@
 # }
 
 # for s3
-bucket_name = "d-bucket"
+bucket_name = "dhriti-bucket"
 
 # # for sg
 # ami = "ami-006dcf34c09e50022"
